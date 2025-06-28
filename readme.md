@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Raad Shaukat 👋</h1>
-<h3 align="center">An AI Engineer from Pakistan specializing in NLP and Computer Vision</h3>
+<h3 align="center">An AI Engineer from Pakistan specializing in NLP, Data Science and Computer Vision</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rtc2k3c3JkM2Z3eGdzNnR4cjVtdmNqZzZub2RkYmN1NXRjcnhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
