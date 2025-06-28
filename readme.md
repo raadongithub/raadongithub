@@ -15,10 +15,9 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 - 🚀 With one year of industry experience, I have:
     - **End-to-End Project Delivery:** Successfully engineered and deployed multiple Gen AI projects, including a RAG-based support chatbot on **Render** and a high-performance (92% accuracy) sentiment analysis API using **Flask** and a fine-tuned BERT model.
     - **Advanced Model Implementation:** Implemented and fine-tuned a diverse range of models, including Large Language Models (LLMs), Generative Adversarial Networks (GANs), and Transformer-based architectures for NLP and computer vision tasks.
-    - **MLOps and Scalability:** Applied MLOps principles for robust model lifecycle management, ensuring scalability and maintainability of AI systems in production.
     - **Full-Stack AI Development:** Proficient across the AI stack, from data management with **SQL** and **NoSQL** databases to model development in **PyTorch** and **TensorFlow**, and API deployment using containerization with **Docker**.
-- 👯 I’m looking to collaborate on **open-source AI projects**, especially those involving creative applications of LLMs or Multimodal AI.
-- 💬 Ask me about **Python, PyTorch, Flask, Generative AI, and building end-to-end ML pipelines.**
+- 👯 I’m looking to collaborate on both **open-source AI projects** & **proprietary projects**, especially those involving creative applications of LLMs or Multimodal AI.
+- 💬 Ask me about **Python, Natural Language Processing, Data Science, Deep Learning, Generative AI, and building end-to-end ML pipelines.**
 - 📫 You can reach me at: **raadonmail@gmail.com**
 
 ---
