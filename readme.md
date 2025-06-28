@@ -13,9 +13,9 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 
 - 🔭 I’m currently focused on building scalable AI systems and have worked on **various Generative AI projects** from concept to deployment.
 - 🚀 With one year of industry experience, I have:
-    - **End-to-End Project Delivery:** Successfully engineered and deployed multiple Gen AI projects, including a RAG-based support chatbot on **Render** and a high-performance (92% accuracy) sentiment analysis API using **Flask** and a fine-tuned BERT model.
-    - **Advanced Model Implementation:** Implemented and fine-tuned a diverse range of models, including Large Language Models (LLMs), Generative Adversarial Networks (GANs), and Transformer-based architectures for NLP and computer vision tasks.
-    - **Full-Stack AI Development:** Proficient across the AI stack, from data management with **SQL** and **NoSQL** databases to model development in **PyTorch** and **TensorFlow**, and API deployment using containerization with **Docker**.
+    - **End-to-End Project Delivery:** Successfully engineered and deployed multiple Gen AI projects, including a RAG-based support chatbot on **Render** and a high-performance (92% accuracy) sentiment analysis API using **Flask** and a fine-tuned BERT model.
+    - **Advanced Model Implementation:** Implemented and fine-tuned a diverse range of models, including Large Language Models (LLMs), Generative Adversarial Networks (GANs), and Transformer-based architectures for NLP and computer vision tasks.
+    - **Full-Stack AI Development:** Proficient across the AI stack, from data management with **SQL** and **NoSQL** databases to model development in **PyTorch** and **TensorFlow**, and API deployment using containerization with **Docker**.
 - 👯 I’m looking to collaborate on both **open-source AI projects** & **proprietary projects**, especially those involving creative applications of LLMs or Multimodal AI.
 - 💬 Ask me about **Python, Natural Language Processing, Data Science, Deep Learning, Generative AI, and building end-to-end ML pipelines.**
 - 📫 You can reach me at: **raadonmail@gmail.com**
@@ -37,9 +37,9 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 
 #### 🤖 Generative AI
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2025/03/langchain-logo_brandlogos.net_9zgaw.png" alt="langchain" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="langchain.svg" alt="langchain" width="40" height="40"/> </a>&nbsp;
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai-brand.png" alt="crewai" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="crewai.svg" alt="crewai" width="40" height="40"/> </a>&nbsp;
 </p>
 
 #### 🌐 Web Development & Deployment
@@ -64,15 +64,15 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 
 ### 📜 Certifications
 
-1.  **[Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/97Z8ISICNEXX)** - *IBM*
-2.  **[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/3Y5WHL60W3VM)** - *IBM*
-3.  **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D4C5RHXW8AXU)** - *Google*
-4.  **[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/records/K2ZCM1PYT2VT)** - *IBM*
-5.  **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/MRT516YTZMLS)** - *IBM*
-6.  **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/records/541B384QGESP)** - *IBM*
-7.  **[AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/account/accomplishments/records/EVS44ZQZ05K7)** - *Vanderbilt University*
-8.  **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/records/49OG01AA8CBO)** - *IBM*
-9.  **[DevOps, DataOps, MLOps](https://www.coursera.org/account/accomplishments/records/JX4WA8WBQ5YG)** - *Duke University*
+1.  **[Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/97Z8ISICNEXX)** - *IBM*
+2.  **[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/3Y5WHL60W3VM)** - *IBM*
+3.  **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D4C5RHXW8AXU)** - *Google*
+4.  **[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/records/K2ZCM1PYT2VT)** - *IBM*
+5.  **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/MRT516YTZMLS)** - *IBM*
+6.  **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/records/541B384QGESP)** - *IBM*
+7.  **[AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/account/accomplishments/records/EVS44ZQZ05K7)** - *Vanderbilt University*
+8.  **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/records/49OG01AA8CBO)** - *IBM*
+9.  **[DevOps, DataOps, MLOps](https://www.coursera.org/account/accomplishments/records/JX4WA8WBQ5YG)** - *Duke University*
 10. **[Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/11A4NGV26M33)** - *IBM*
 11. **[How to write a research paper](https://www.coursera.org/account/accomplishments/records/V0W1A8744HUH)** - *Danyal Education, Connected Pakistan*
 12. **[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/records/684JLX41YHOG)** - *Google*
