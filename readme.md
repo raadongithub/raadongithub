@@ -37,9 +37,9 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 
 #### 🤖 Generative AI
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="langchain" width="40" height="40"/> </a>&nbsp;
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/crewai/crewai-original.svg" alt="crewai" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai-brand.png" alt="crewai" width="40" height="40"/> </a>&nbsp;
 </p>
 
 #### 🌐 Web Development & Deployment
