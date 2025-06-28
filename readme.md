@@ -76,7 +76,7 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 10. **[Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/11A4NGV26M33)** - *IBM*
 11. **[How to write a research paper](https://www.coursera.org/account/accomplishments/records/V0W1A8744HUH)** - *Danyal Education, Connected Pakistan*
 12. **[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/records/684JLX41YHOG)** - *Google*
-13. **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - *DeepLearning.AI*
+13. **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/3JQR0UTA2XS6)** - *DeepLearning.AI*
 14. **[Advanced Microsoft Power BI](https://www.coursera.org/account/accomplishments/records/N9UUYN5GW4A8)** - *Edureka*
 15. **[Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/records/HAF2RJK8TF6W)** - *Deeplearning.AI*
 16. **[Fundamentals of AI Agents using RAG and LangChain](https://www.coursera.org/account/accomplishments/records/SAFJTGC52GJY)** - *IBM*
