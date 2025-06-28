@@ -64,28 +64,28 @@ I'm a passionate AI Engineer with a year of hands-on experience in turning compl
 
 ### 📜 Certifications
 
-1.  **[Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/97Z8ISICNEXX)** - *IBM*
-2.  **[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/3Y5WHL60W3VM)** - *IBM*
-3.  **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D4C5RHXW8AXU)** - *Google*
-4.  **[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/records/K2ZCM1PYT2VT)** - *IBM*
-5.  **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/MRT516YTZMLS)** - *IBM*
-6.  **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/records/541B384QGESP)** - *IBM*
-7.  **[AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/account/accomplishments/records/EVS44ZQZ05K7)** - *Vanderbilt University*
-8.  **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/records/49OG01AA8CBO)** - *IBM*
-9.  **[DevOps, DataOps, MLOps](https://www.coursera.org/account/accomplishments/records/JX4WA8WBQ5YG)** - *Duke University*
-10. **[Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/11A4NGV26M33)** - *IBM*
-11. **[How to write a research paper](https://www.coursera.org/account/accomplishments/records/V0W1A8744HUH)** - *Danyal Education, Connected Pakistan*
-12. **[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/records/684JLX41YHOG)** - *Google*
-13. **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/3JQR0UTA2XS6)** - *DeepLearning.AI*
-14. **[Advanced Microsoft Power BI](https://www.coursera.org/account/accomplishments/records/N9UUYN5GW4A8)** - *Edureka*
-15. **[Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/records/HAF2RJK8TF6W)** - *Deeplearning.AI*
-16. **[Fundamentals of AI Agents using RAG and LangChain](https://www.coursera.org/account/accomplishments/records/SAFJTGC52GJY)** - *IBM*
-17. **[Generative AI Advance Fine-Tuning for LLMs](https://www.coursera.org/account/accomplishments/records/EWVZ3AE9HQ8E)** - *IBM*
-18. **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/records/4SEF0O29OR3T)** - *DeepLearning.AI, Amazon Web Services*
-19. **[Microsoft Azure SQL](https://www.coursera.org/account/accomplishments/records/N97UJPMCO91J)** - *Microsoft*
-20. **[MongoDB: The Complete Guide to NoSQL Database Development](https://www.coursera.org/account/accomplishments/records/HI0VJD5QJZQ0)** - *EDUCBA*
-21. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UXYB3ASLABL5)** - *Deeplearning.AI*
-22. **[What is Data Science?](https://www.coursera.org/account/accomplishments/records/3SZZYF25SGRJ)** - *IBM*
+1.  **[Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/97Z8ISICNEXX)** - *IBM* <br>
+2.  **[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/3Y5WHL60W3VM)** - *IBM* <br>
+3.  **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D4C5RHXW8AXU)** - *Google* <br>
+4.  **[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/records/K2ZCM1PYT2VT)** - *IBM* <br>
+5.  **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/MRT516YTZMLS)** - *IBM* <br>
+6.  **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/records/541B384QGESP)** - *IBM* <br>
+7.  **[AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/account/accomplishments/records/EVS44ZQZ05K7)** - *Vanderbilt University* <br>
+8.  **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/records/49OG01AA8CBO)** - *IBM* <br>
+9.  **[DevOps, DataOps, MLOps](https://www.coursera.org/account/accomplishments/records/JX4WA8WBQ5YG)** - *Duke University* <br>
+10. **[Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/11A4NGV26M33)** - *IBM* <br>
+11. **[How to write a research paper](https://www.coursera.org/account/accomplishments/records/V0W1A8744HUH)** - *Danyal Education, Connected Pakistan* <br>
+12. **[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/records/684JLX41YHOG)** - *Google* <br>
+13. **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/3JQR0UTA2XS6)** - *DeepLearning.AI* <br>
+14. **[Advanced Microsoft Power BI](https://www.coursera.org/account/accomplishments/records/N9UUYN5GW4A8)** - *Edureka* <br>
+15. **[Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/records/HAF2RJK8TF6W)** - *Deeplearning.AI* <br>
+16. **[Fundamentals of AI Agents using RAG and LangChain](https://www.coursera.org/account/accomplishments/records/SAFJTGC52GJY)** - *IBM* <br>
+17. **[Generative AI Advance Fine-Tuning for LLMs](https://www.coursera.org/account/accomplishments/records/EWVZ3AE9HQ8E)** - *IBM* <br>
+18. **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/records/4SEF0O29OR3T)** - *DeepLearning.AI, Amazon Web Services* <br>
+19. **[Microsoft Azure SQL](https://www.coursera.org/account/accomplishments/records/N97UJPMCO91J)** - *Microsoft* <br>
+20. **[MongoDB: The Complete Guide to NoSQL Database Development](https://www.coursera.org/account/accomplishments/records/HI0VJD5QJZQ0)** - *EDUCBA* <br>
+21. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UXYB3ASLABL5)** - *Deeplearning.AI* <br>
+22. **[What is Data Science?](https://www.coursera.org/account/accomplishments/records/3SZZYF25SGRJ)** - *IBM* <br>
 
 ---
 
