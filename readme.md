@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate AI Engineer with a year of hands-on experience in turning complex problems into intelligent, end-to-end solutions. My journey has taken me from foundational concepts to building, deploying, and managing machine learning models in real-world scenarios. I thrive on challenges and am dedicated to leveraging AI to create impactful technology.
+I'm a passionate AI Engineer with almost 2 years of hands-on experience in turning complex problems into intelligent, end-to-end solutions. My journey has taken me from foundational concepts to building, deploying, and managing machine learning models in real-world scenarios. I thrive on challenges and am dedicated to leveraging AI to create impactful technology.
 
 - 🔭 I’m currently focused on building scalable AI systems and have worked on **various Generative AI projects** from concept to deployment.
 - 🚀 With one year of industry experience, I have:
