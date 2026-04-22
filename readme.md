@@ -90,7 +90,7 @@ I care about:
 <table>
   <tr>
     <td align="center" style="padding:12px 16px"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br/>HuggingFace</td>
-    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="48" height="48"/><br/>LangChain</td>
+    <td align="center" style="padding:12px 16px"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png" width="48" height="48"/><br/>LangChain</td>
     <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="48" height="48"/><br/>LangGraph</td>
     <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/crewai.svg" width="48" height="48"/><br/>CrewAI</td>
   </tr>
