@@ -74,12 +74,12 @@ I care about:
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/><br/>Python</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"/><br/>PyTorch</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48"/><br/>TensorFlow</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/><br/>Scikit-learn</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/><br/>Pandas</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"/><br/>OpenCV</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/><br/>Python</td>
+    <td align="center" style="padding:12px 16px"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"/><br/>PyTorch</td>
+    <td align="center" style="padding:12px 16px"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48"/><br/>TensorFlow</td>
+    <td align="center" style="padding:12px 16px"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/><br/>Scikit-learn</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/><br/>Pandas</td>
+    <td align="center" style="padding:12px 16px"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48"/><br/>OpenCV</td>
   </tr>
 </table>
 
@@ -89,10 +89,10 @@ I care about:
 
 <table>
   <tr>
-    <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br/>HuggingFace</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48" height="48"/><br/>LangChain</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="48" height="48"/><br/>LangGraph</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/crewai.svg" width="48" height="48"/><br/>CrewAI</td>
+    <td align="center" style="padding:12px 16px"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br/>HuggingFace</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="48" height="48"/><br/>LangChain</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="48" height="48"/><br/>LangGraph</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/crewai.svg" width="48" height="48"/><br/>CrewAI</td>
   </tr>
 </table>
 
@@ -102,10 +102,10 @@ I care about:
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48"/><br/>FastAPI</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" width="48" height="48"/><br/>Celery</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48"/><br/>Django</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48"/><br/>Docker</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48"/><br/>FastAPI</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" width="48" height="48"/><br/>Celery</td>
+    <td align="center" style="padding:12px 16px"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48"/><br/>Django</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48"/><br/>Docker</td>
   </tr>
 </table>
 
@@ -115,10 +115,10 @@ I care about:
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/><br/>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/><br/>MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48"/><br/>Redis</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/><br/>Git</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/><br/>MySQL</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/><br/>MongoDB</td>
+    <td align="center" style="padding:12px 16px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48"/><br/>Redis</td>
+    <td align="center" style="padding:12px 16px"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/><br/>Git</td>
   </tr>
 </table>
 
