@@ -1,96 +1,163 @@
-<h1 align="center">Hi there, I'm Raad Shaukat 👋</h1>
-<h3 align="center">An AI Engineer from Pakistan specializing in Generative AI, NLP, and Computer Vision</h3>
+<h1 align="center">Hi, I'm Raad Shaukat</h1>
+<h3 align="center">AI Engineer building reliable systems with Generative AI, NLP, and distributed backends</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rtc2k3c3JkM2Z3eGdzNnR4cjVtdmNqZzZub2RkYmN1NXRjcnhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  I design systems that work in production, scale under load, and remain maintainable after deployment.
+  <br>
+  Two years into the journey. Focused on shipping real solutions, not demos.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## What I Do
 
-I'm a passionate AI Engineer with almost 2 years of hands-on experience in turning complex problems into intelligent, end-to-end solutions. My journey has taken me from foundational concepts to building, deploying, and managing machine learning models in real-world scenarios. I thrive on challenges and am dedicated to leveraging AI to create impactful technology.
+I build end-to-end AI systems that move from idea to deployment.  
+My work focuses on reliability, performance, and clean architecture rather than hype-driven prototypes.
 
-- 🔭 I’m currently focused on building scalable AI systems and have worked on **various Generative AI projects** from concept to deployment.
-- 🚀 With one year of industry experience, I have:
-    - **End-to-End Project Delivery:** Successfully engineered and deployed multiple Gen AI projects, including a RAG-based support chatbot on **Render** and a high-performance (92% accuracy) sentiment analysis API using **Flask** and a fine-tuned BERT model.
-    - **Advanced Model Implementation:** Implemented and fine-tuned a diverse range of models, including Large Language Models (LLMs), Generative Adversarial Networks (GANs), and Transformer-based architectures for NLP and computer vision tasks.
-    - **Full-Stack AI Development:** Proficient across the AI stack, from data management with **SQL** and **NoSQL** databases to model development in **PyTorch** and **TensorFlow**, and API deployment using containerization with **Docker**.
-- 👯 I’m looking to collaborate on both **open-source AI projects** & **proprietary projects**, especially those involving creative applications of LLMs or Multimodal AI.
-- 💬 Ask me about **Python, Natural Language Processing, Data Science, Deep Learning, Generative AI, and building end-to-end ML pipelines.**
-- 📫 You can reach me at: **raadonmail@gmail.com**
+Core strengths:
 
----
+- Designing production-grade AI systems
+- Building APIs that stay stable under real traffic
+- Orchestrating asynchronous workloads and background processing
+- Deploying models that are observable and maintainable
+- Solving practical engineering problems under constraints
 
-### 🛠️ My Tech Stack
+I care about:
 
-#### 🧠 Machine Learning & Deep Learning
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&nbsp;
-</p>
-
-#### 🤖 Generative AI
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="langchain.svg" alt="langchain" width="40" height="40"/> </a>&nbsp;
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> <img src="crewai.svg" alt="crewai" width="40" height="40"/> </a>&nbsp;
-</p>
-
-#### 🌐 Web Development & Deployment
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
-</p>
-
-#### 🛢️ Databases & Tools
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-</p>
+- Clear system boundaries
+- Predictable behavior
+- Operational stability
+- Shipping working software
 
 ---
 
-### 📜 Certifications
+## Selected Work
 
-1.  **[Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/97Z8ISICNEXX)** - *IBM* <br>
-2.  **[Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/records/3Y5WHL60W3VM)** - *IBM* <br>
-3.  **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D4C5RHXW8AXU)** - *Google* <br>
-4.  **[Introduction to Computer Vision and Image Processing](https://www.coursera.org/account/accomplishments/records/K2ZCM1PYT2VT)** - *IBM* <br>
-5.  **[Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/records/MRT516YTZMLS)** - *IBM* <br>
-6.  **[Java Programming for Beginners](https://www.coursera.org/account/accomplishments/records/541B384QGESP)** - *IBM* <br>
-7.  **[AI Agents and Agentic AI with Python & Generative AI](https://www.coursera.org/account/accomplishments/records/EVS44ZQZ05K7)** - *Vanderbilt University* <br>
-8.  **[Deep Learning with PyTorch](https://www.coursera.org/account/accomplishments/records/49OG01AA8CBO)** - *IBM* <br>
-9.  **[DevOps, DataOps, MLOps](https://www.coursera.org/account/accomplishments/records/JX4WA8WBQ5YG)** - *Duke University* <br>
-10. **[Django Application Development with SQL and Databases](https://www.coursera.org/account/accomplishments/records/11A4NGV26M33)** - *IBM* <br>
-11. **[How to write a research paper](https://www.coursera.org/account/accomplishments/records/V0W1A8744HUH)** - *Danyal Education, Connected Pakistan* <br>
-12. **[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/records/684JLX41YHOG)** - *Google* <br>
-13. **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/3JQR0UTA2XS6)** - *DeepLearning.AI* <br>
-14. **[Advanced Microsoft Power BI](https://www.coursera.org/account/accomplishments/records/N9UUYN5GW4A8)** - *Edureka* <br>
-15. **[Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/records/HAF2RJK8TF6W)** - *Deeplearning.AI* <br>
-16. **[Fundamentals of AI Agents using RAG and LangChain](https://www.coursera.org/account/accomplishments/records/SAFJTGC52GJY)** - *IBM* <br>
-17. **[Generative AI Advance Fine-Tuning for LLMs](https://www.coursera.org/account/accomplishments/records/EWVZ3AE9HQ8E)** - *IBM* <br>
-18. **[Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/records/4SEF0O29OR3T)** - *DeepLearning.AI, Amazon Web Services* <br>
-19. **[Microsoft Azure SQL](https://www.coursera.org/account/accomplishments/records/N97UJPMCO91J)** - *Microsoft* <br>
-20. **[MongoDB: The Complete Guide to NoSQL Database Development](https://www.coursera.org/account/accomplishments/records/HI0VJD5QJZQ0)** - *EDUCBA* <br>
-21. **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/UXYB3ASLABL5)** - *Deeplearning.AI* <br>
-22. **[What is Data Science?](https://www.coursera.org/account/accomplishments/records/3SZZYF25SGRJ)** - *IBM* <br>
+**RAG Support Assistant**
+
+- Built a retrieval-augmented chatbot handling real user queries
+- Implemented chunking, embeddings, and vector search pipeline
+- Deployed with persistent storage and production logging
+- Reduced response latency through caching and optimized retrieval
+
+**Sentiment Analysis API**
+
+- Fine-tuned transformer model achieving high classification accuracy
+- Designed REST API with structured validation and error handling
+- Implemented batching and request throttling
+- Deployed with containerized environment
+
+**Asynchronous Task Processing System**
+
+- Built distributed background worker system
+- Implemented retry logic and failure recovery
+- Managed long-running jobs using task queues
+- Designed monitoring and health checks
 
 ---
 
-### 🔗 Connect with me
+## Engineering Principles
+
+- Clear over clever
+- Systems over scripts
+- Reliability over novelty
+- Shipping over perfection
+- Measure before optimizing
+- Fail predictably
+- Keep architecture understandable
+
+---
+
+## Tech Stack
+
+### Machine Learning and AI
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/raadshaukat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raadshaukat on LinkedIn" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </p>
+
+### Generative AI and Agents
+
+<p align="left">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/crewai.svg" width="40" height="40"/>
+</p>
+
+### Backend and Systems
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Databases and Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## Current Focus
+
+- Production-grade AI systems
+- Agent orchestration
+- Distributed task execution
+- Model deployment reliability
+- Performance optimization
+- Observability and monitoring
+
+---
+
+## What You Can Expect From My Code
+
+- Predictable structure
+- Defensive error handling
+- Logging and traceability
+- Practical documentation
+- Maintainable architecture
+- Minimal surprises
+
+---
+
+## Collaboration
+
+I am open to working on:
+
+- AI system architecture
+- Backend-heavy AI applications
+- Automation pipelines
+- Production deployments
+- Performance and reliability improvements
+
+---
+
+## Contact
+
+Email  
+raadonmail@gmail.com
+
+LinkedIn  
+https://www.linkedin.com/in/raadshaukat/
+
+---
+
+## Philosophy
+
+Good engineers write code that works.  
+Strong engineers build systems that keep working.  
+Senior engineers build systems other engineers can trust.
+
+That is the direction I am moving toward.
